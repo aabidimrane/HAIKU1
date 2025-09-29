@@ -14,6 +14,15 @@
         "express": "^4.21.2"
     },
     "devDependencies": {
-        "nodemon": "^2.0.19"
-    }
+        "nodemon": "^2.0.22"
+    },
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/aabidimrane/haikus-for-codespaces.git"
+    },
+    "bugs": {
+        "url": "https://github.com/aabidimrane/haikus-for-codespaces/issues"
+    },
+    "homepage": "https://github.com/aabidimrane/haikus-for-codespaces#readme"
 }
